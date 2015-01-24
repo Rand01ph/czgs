@@ -1653,6 +1653,7 @@ Service Boxes
 .service-box.featured {
     background: #e7402f;
     color: #fff;
+    height: 320px;
 }
 
 .service-box.featured h3 {
